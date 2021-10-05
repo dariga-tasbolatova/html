@@ -1,0 +1,95 @@
+body{
+    font-family: "EB Garamond", serif;
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Akronim', serif;
+    font-size: 70px;
+    position: relative;
+    left: 100px;
+    color: maroon;
+    text-shadow: 1px 1px greenyellow;
+}
+
+.nav-link{
+    position: relative;
+    left: 250px;
+}
+
+#image{
+    position: relative;
+    top: 30px;
+}
+
+
+#image img {
+    width: 80%;
+}
+
+.container-fluid{
+    margin:15px;
+}
+
+.img{
+    border:0.5px solid black;
+    padding: 1px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+} 
+
+img:hover{
+    box-shadow: 0 7px 7px 7px rgb(49, 55, 87);
+    transform: scale(1.01);
+}
+
+h3{
+    position: relative;
+    margin-top: 40px;
+}
+
+p{
+    position: relative;
+    margin-bottom: 50px;
+}
+
+figcaption{
+    font-size: 16px;
+ 
+}
+
+.portfolio_header {
+    margin-top: 100px;
+    margin-bottom: 80px;
+    padding-top: 40px;
+    text-align: center;
+    color: linen;
+}
+
+div{
+    clear:both;
+    margin-bottom: 20px;
+}
+div1{
+    color: linen;
+}  
+footer{
+    display:block;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: lightgray;
+    color: gray;
+    text-align: left;
+    font-size: 15px;
+}
+
+.git-header {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.contacts-info-item {
+    text-align: center;
+}
